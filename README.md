@@ -16,7 +16,7 @@
 - **A course generator.** Roll a new course in seconds: 1 to 18 holes, par and length for each, parkland, mountains, desert or coast, little or much water, the kinds of trees. With a scorecard, stroke index and an estimated course rating and slope.
 - **A course editor.** Plant trees, bushes, reeds, cacti and rocks, paint the ground, raise and flatten terrain, move tees, doglegs and pins, and place houses and a clubhouse in several colours.
 - **Ways to play.** Stroke play, Stableford, target games, short game practice and nearest to the pin. A TV-style camera with tracer, shot data after every shot, a mini map, and rounds you can finish later.
-- **Keyboard or launch monitor.** Play with the keyboard out of the box. Launch monitor support is in private testing.
+- **Keyboard or launch monitor.** Play with the keyboard out of the box. Launch monitors are to be connected through official interfaces.
 
 ## Pictures
 

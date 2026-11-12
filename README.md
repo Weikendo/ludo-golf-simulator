@@ -31,6 +31,12 @@
 <td><img src="images/editor.jpg" alt="The course editor over a course seen from above"><br>The course editor</td></tr>
 </table>
 
+## Why the name "Ludo Golf"?
+
+Literally translated from Latin, *ludo* means "I play" ("I play golf").
+
+At the same time, it's a subtle nod to the classic European board game Ludo (known as "Mensch ärgere Dich nicht" in German, which roughly translates to "Man, don't get angry"). That's the core philosophy behind the game: golf involves plenty of luck, bad bounces, and unexplainable misses, so the goal is to keep things fun and not get too frustrated in the hitting bay.
+
 ## Requirements
 
 - macOS on Apple Silicon or Intel, or Windows 10/11 (64 bit).

@@ -18,6 +18,10 @@
 - **Ways to play.** Stroke play, Stableford, target games, short game practice and nearest to the pin. A TV-style camera with tracer, shot data after every shot, a mini map, and rounds you can finish later.
 - **Keyboard or launch monitor.** Play with the keyboard out of the box. Launch monitors are to be connected through official interfaces.
 
+## Video
+
+https://github.com/user-attachments/assets/86189066-c277-4631-aebd-8cd288c739d8
+
 ## Pictures
 
 <table>
